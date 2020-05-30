@@ -2,8 +2,8 @@
   "name": "typescript-configs",
   "version": "0.0.1",
   "license": "MIT",
-  "engines": {
-    "node": "12.x"
+  "dependencies": {
+    "typescript": "^3.9.3"
   },
   "scripts": {
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
@@ -32,8 +32,5 @@
     "*.{js,ts,tsx}": [
       "eslint --fix"
     ]
-  },
-  "dependencies": {
-    "typescript": "^3.9.3"
   }
 }
