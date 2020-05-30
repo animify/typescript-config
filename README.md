@@ -1,4 +1,4 @@
-# Typescript Config
+# 🧳 Typescript Config
 
 An out of the box config template for React + Typescript based projects.
 
